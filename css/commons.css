@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=East+Sea+Dokdo|Montserrat|Nanum+Myeongjo|Nanum+Pen+Script|Source+Sans+Pro|Varela+Round');
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+    font-family: 'Varela Round', sans-serif;
+    font-family: 'East Sea Dokdo', cursive;
+  
+    background-color: #353535;
+}
+
+h1{
+    font-size: 52pt;
+    font-family: 'Montserrat';
+    text-align: center;
+    color: #FFFFFF;
+  }
+
+p{
+    font-size: 52pt;
+    font-family: 'Montserrat';
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: bold;
+}
